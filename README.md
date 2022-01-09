@@ -16,3 +16,5 @@ If the user removes all the shown trip, a new button will appear giving the chan
 ![Tourpic](https://user-images.githubusercontent.com/91989821/148650783-5fcf1c45-c73e-4f6c-8abc-332466d694c9.png)
 
 ##READ MORE FUNCTION
+
+![pic2](https://user-images.githubusercontent.com/91989821/148701311-e8a6ce1b-c486-4366-88c0-0322f0978cce.png)
