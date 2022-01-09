@@ -18,3 +18,6 @@ If the user removes all the shown trip, a new button will appear giving the chan
 ##READ MORE FUNCTION
 
 ![pic2](https://user-images.githubusercontent.com/91989821/148701311-e8a6ce1b-c486-4366-88c0-0322f0978cce.png)
+
+##DELETING ALL THE TOURS
+
