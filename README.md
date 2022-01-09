@@ -21,3 +21,5 @@ If the user removes all the shown trip, a new button will appear giving the chan
 
 ##DELETING ALL THE TOURS
 
+![pic3](https://user-images.githubusercontent.com/91989821/148701335-aad246dd-2657-4bf5-90c4-2f8e2da4af8a.png)
+
